@@ -1,0 +1,29 @@
+ //Text File 
+ 
+ Dear Anita 
+ 
+  While Executing this project in netbeans with cloudsim jar file added , 
+  There are some bugs which are getting displayed . I tried to solve the issue but 
+  still it is not working , some bugs are related to Maths functions (i added jar for math functions).
+
+Following files are showing error
+
+MyCloudletSchedulerDynamicWorkload.java
+MyCloudletSchedulerSpaceShared.java
+MyCloudletSchedulerTimeShared.java
+
+PowerVm.java
+PowerVmAllocationPolicyMigrationAbstractVmPlacementFFT.java
+PowerVmSelectionPolicyMaximumCorrelation.java
+
+would you like to solve it ?
+or can you uplaod a New zip file of project (from Netbeans Folder) with all jar files which you have used .
+
+Thank You 
+Dinesh .
+
+
+
+
+
+
